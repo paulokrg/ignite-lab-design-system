@@ -2,7 +2,7 @@
 
 [![Badge](https://img.shields.io/badge/🛠️%20Under%20Construction%20🛠️-ffff00)](#)
 
-    <!-- [![Badge](https://img.shields.io/badge/Finished%20Project-00aa00)](#) -->
+<!-- [![Badge](https://img.shields.io/badge/Finished%20Project-00aa00)](#) -->
 
 <h1>
   A Design System in React.js<br>
