@@ -23,6 +23,7 @@ A design system form template in React.js.
 - Vite
 - Typescript
 - Tailwind CSS
+- Storybook Deployer
 
 Installed Dependencies:
 
@@ -33,6 +34,7 @@ Installed Dependencies:
 - clsx: `npm install --save clsx`
 - Radix-Ui: `npm install @radix-ui/react-slot` and `npm install @radix-ui/react-checkbox`
 - Phosphor-react: `npm install phosphor-react`
+- storybook-deployer: `npm i @storybook/storybook-deployer --save-dev`
 
 VSCode Extensions:
 
