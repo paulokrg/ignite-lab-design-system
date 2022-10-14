@@ -35,6 +35,7 @@ Installed Dependencies:
 - Radix-Ui: `npm install @radix-ui/react-slot` and `npm install @radix-ui/react-checkbox`
 - Phosphor-react: `npm install phosphor-react`
 - storybook-deployer: `npm i @storybook/storybook-deployer --save-dev`
+- [Storybook Accessibility](https://storybook.js.org/addons/@storybook/addon-a11y): `npm install @storybook/addon-a11y`
 
 VSCode Extensions:
 
