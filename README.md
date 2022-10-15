@@ -36,6 +36,9 @@ Installed Dependencies:
 - Phosphor-react: `npm install phosphor-react`
 - storybook-deployer: `npm i @storybook/storybook-deployer --save-dev`
 - [Storybook Accessibility](https://storybook.js.org/addons/@storybook/addon-a11y): `npm install @storybook/addon-a11y`
+- [Storybook Interactions](https://storybook.js.org/docs/react/essentials/interactions): `npm install -D @storybook/addon-interactions @storybook/jest @storybook/testing-library @storybook/test-runner`
+- [Axios](https://axios-http.com/ptbr/docs/intro): `npm install axios`
+- [Mock Service Worker](https://mswjs.io/) and [MSW Storybook Addon](https://github.com/mswjs/msw-storybook-addon): `npm i msw msw-storybook-addon -D` then `npx msw init public/ -y`
 
 VSCode Extensions:
 
