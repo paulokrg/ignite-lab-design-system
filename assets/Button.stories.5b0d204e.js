@@ -1,0 +1,2 @@
+import{B as t}from"./Button.23eb97af.js";import"./index.module.fc897954.js";import"./index.f6b5563d.js";import"./iframe.77b74c29.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.9fff78f1.js";const a={title:"Components/Button",component:t,args:{children:"Create account"},argTypes:{}},m={},i=["Default"];export{m as Default,i as __namedExportsOrder,a as default};
+//# sourceMappingURL=Button.stories.5b0d204e.js.map
